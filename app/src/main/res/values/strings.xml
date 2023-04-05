@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Медицинская приложения</string>
+    <string name="button_not_register">У вас нет аккаунта? <font color='red'>Регистрация</font></string>
+    <string name="after_register">У вас уже есть аккаунт? <font color='red'>Войти сейчас</font></string>
+    <string name="password">Пароль</string>
+    <string name="email">Электронная почта</string>
+</resources>

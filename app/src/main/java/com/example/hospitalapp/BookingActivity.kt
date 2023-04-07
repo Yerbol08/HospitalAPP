@@ -29,7 +29,7 @@ class BookingActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_booking)
         val toolbar = findViewById<Toolbar>(R.id.tbKrl)
-        toolbar.title = "Записаться"
+        toolbar.title = "Жазылу"
         val doctors = arrayOf(
             "Хирург - Салихов Арсен Алимбекович",
             "Кардиолог - Омарова Аида Каримжановна",

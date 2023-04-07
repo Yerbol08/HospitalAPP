@@ -24,7 +24,7 @@ class HistoryActivity : AppCompatActivity() {
         setContentView(R.layout.activity_history)
 
         val toolbar = findViewById<Toolbar>(R.id.tbHistory)
-        toolbar.title = "История"
+        toolbar.title = "ТІРКЕЛУ ТАРИХЫ"
         val recyclerView = findViewById<RecyclerView>(R.id.recyclerview)
         recyclerView.layoutManager = LinearLayoutManager(this)
         val database = FirebaseDatabase.getInstance().getReference("book")

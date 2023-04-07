@@ -41,7 +41,7 @@ class LoginActivity : AppCompatActivity() {
                             // добавьте код для перехода на следующий экран
                         } else {
                             // вход провален
-                            Toast.makeText(this, "Ошибка входа", Toast.LENGTH_SHORT).show()
+                            Toast.makeText(this, "Логин кірмеді", Toast.LENGTH_SHORT).show()
                         }
                     }
 

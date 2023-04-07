@@ -24,7 +24,7 @@
                 android:layout_height="wrap_content"
                 android:layout_centerInParent="true"
                 android:fontFamily="monospace"
-                android:text="Medical App"
+                android:text="Медициналық қолданба"
                 android:textColor="@android:color/white"
                 android:textSize="24sp"
                 android:textStyle="italic" />
@@ -124,7 +124,7 @@
                     android:layout_below="@+id/imgHistory"
                     android:layout_marginTop="15dp"
                     android:gravity="center"
-                    android:text="ИСТОРИЯ"
+                    android:text="ТІРКЕЛУ ТАРИХЫ"
                     android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
                     android:textColor="#87D1A2"
                     android:textStyle="bold" />
@@ -176,7 +176,7 @@
                     android:layout_below="@+id/imgdokter"
                     android:layout_marginTop="15dp"
                     android:gravity="center"
-                    android:text="КОНСУЛЬТАЦИЯ\nВРАЧА"
+                    android:text="ДӘРІГЕРЛЕР"
                     android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
                     android:textColor="#87D1A2"
                     android:textStyle="bold" />
@@ -217,7 +217,7 @@
                     android:layout_below="@+id/imgHotel"
                     android:layout_marginTop="15dp"
                     android:gravity="center"
-                    android:text="БРОНИРОВАНИЕ"
+                    android:text="БРОНДАУ"
                     android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
                     android:textColor="#87D1A2"
                     android:textStyle="bold" />
@@ -235,7 +235,7 @@
         android:layout_marginLeft="64dp"
         android:layout_marginRight="64dp"
         android:layout_marginBottom="16dp"
-        android:text="Выход"
+        android:text="ШЫҒУ"
         android:textSize="16sp"
         android:theme="@style/Theme.MaterialComponents.Light"
         app:backgroundTint="@color/colorPrimaryDark"

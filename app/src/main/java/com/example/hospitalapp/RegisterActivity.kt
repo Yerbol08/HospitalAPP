@@ -80,7 +80,7 @@ class RegisterActivity : AppCompatActivity() {
 
                         } else {
                             // регистрация провалена
-                            Toast.makeText(this, "Ошибка регистрации", Toast.LENGTH_SHORT).show()
+                            Toast.makeText(this, "тіркеу қатесі", Toast.LENGTH_SHORT).show()
                         }
                     }
 

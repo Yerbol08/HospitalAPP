@@ -43,7 +43,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="center"
-                        android:text="МОЙ ПРОФИЛЬ"
+                        android:text="МЕНІҢ ПРОФИЛІМ"
                         android:textColor="@color/colorPrimary"
                         android:textSize="19sp"
                         android:textStyle="bold" />
@@ -54,7 +54,7 @@
                         android:layout_height="wrap_content"
                         android:layout_below="@+id/idSewa"
                         android:layout_marginTop="20dp"
-                        android:text="ФАМИЛИЯ ИМЯ :"
+                        android:text="ТЕГІ АТЫ :"
                         android:textColor="@android:color/black"
                         android:textSize="17sp" />
 
@@ -72,7 +72,7 @@
                         android:layout_height="wrap_content"
                         android:layout_below="@+id/lblName"
                         android:layout_marginTop="20dp"
-                        android:text="ЭЛЕКТОРННАЯ ПОЧТА :"
+                        android:text="@string/email"
                         android:textColor="@android:color/black"
                         android:textSize="17sp" />
 
@@ -90,7 +90,7 @@
                         android:layout_height="wrap_content"
                         android:layout_below="@+id/lblName"
                         android:layout_marginTop="20dp"
-                        android:text="Адрес :"
+                        android:text="Мекенжайы :"
                         android:textColor="@android:color/black"
                         android:textSize="17sp" />
 
@@ -107,7 +107,7 @@
                         android:layout_height="wrap_content"
                         android:layout_below="@+id/lblName"
                         android:layout_marginTop="20dp"
-                        android:text="Место работы :"
+                        android:text="Жұмыс орыны :"
                         android:textColor="@android:color/black"
                         android:textSize="17sp" />
 
@@ -125,7 +125,7 @@
                         android:layout_height="wrap_content"
                         android:layout_below="@+id/lblName"
                         android:layout_marginTop="20dp"
-                        android:text="Дата рождения :"
+                        android:text="Туған күні :"
                         android:textColor="@android:color/black"
                         android:textSize="17sp" />
 
